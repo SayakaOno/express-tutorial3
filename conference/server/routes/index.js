@@ -14,5 +14,4 @@ module.exports = () => {
   router.use("/feedback", feedbackRoute());
 
   return router;
-  s;
 };
